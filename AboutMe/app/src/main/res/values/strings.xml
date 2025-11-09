@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kushwanth</string>
+    <string name="bio_text">Hello! I’m Kushwanth, a student passionate about Android development and UI/UX design.</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="contact">Contact</string>
+    <string name="hobbies_text">I enjoy coding, traveling, photography, and reading Stoic philosophy.</string>
+    <string name="contact_title">Contact Information</string>
+    <string name="fake_email">Kushwanth@example.com</string>
+    <string name="fake_phone">+92-300-0000000</string>
+    <string name="going_to_contact">Going to Contact...</string>
+    <string name="fab_message">Message from Kushwanth!</string>
+    <string name="action_settings">Settings</string>
+</resources>
